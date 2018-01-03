@@ -11,6 +11,11 @@
     "type": "git",
     "url": "git+https://github.com/kyranet/PreciseTimeout.git"
   },
+  "devDependencies": {
+    "eslint": "^4.14.0",
+    "tslint": "^5.8.0",
+    "typescript": "^2.6.2"
+  },
   "keywords": [
     "timeout",
     "promise",
