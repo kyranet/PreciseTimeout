@@ -4,7 +4,8 @@
   "description": "Set highly-accurate timeouts for your projects",
   "main": "index.js",
   "scripts": {
-    "test": "npx eslint ./src"
+    "lint": "npx eslint --fix src && npx tslint --fix 'typings/*.ts'",
+    "test": "npx eslint src && npx tslint 'typings/*.ts'"
   },
   "repository": {
     "type": "git",

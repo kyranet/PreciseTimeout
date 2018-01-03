@@ -1,5 +1,10 @@
 # PreciseTimeout
 
+[![npm](https://img.shields.io/npm/v/precisetimeout.svg?maxAge=3600)](https://www.npmjs.com/package/precisetimeout)
+[![npm](https://img.shields.io/npm/dt/precisetimeout.svg?maxAge=3600)](https://www.npmjs.com/package/precisetimeout)
+[![Build Status](https://travis-ci.org/kyranet/PreciseTimeout.svg?branch=master)](https://travis-ci.org/kyranet/PreciseTimeout)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/kyranet/PreciseTimeout/master/LICENSE)
+
 Set highly-accurate timeouts for your projects
 
 ## What is this package for?

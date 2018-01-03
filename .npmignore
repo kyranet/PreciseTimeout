@@ -1,0 +1,5 @@
+.eslintrc.json
+tslint.json
+.travis.yml
+.gitattributes
+.gitignore
