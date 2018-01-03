@@ -2,26 +2,31 @@ module.exports = class PreciseTimeout {
 
 	/**
 	 * Create a new PreciseTimeout
+	 * @since 1.0.0
 	 * @param {number} time The time in milliseconds to run
 	 */
 	constructor(time) {
 		/**
+		 * @since 1.0.0
 		 * @type {number}
 		 */
 		this.endsAt = Date.now() + time;
 
 		/**
+		 * @since 1.0.0
 		 * @type {boolean}
 		 */
 		this.stopped = false;
 
 		/**
+		 * @since 1.0.0
 		 * @type {?Function}
 		 * @private
 		 */
 		this.resolve = null;
 
 		/**
+		 * @since 1.0.0
 		 * @type {?Timeout}
 		 * @private
 		 */
