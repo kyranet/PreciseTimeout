@@ -1,3 +1,4 @@
+.github
 .eslintrc.json
 tslint.json
 .travis.yml
