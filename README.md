@@ -17,16 +17,16 @@ This package allows developers to set their highly-accurate promisified timeouts
 
 ## Downloading
 
-In a command prompt in your projects folder (wherever that may be) run the following:
-
-**Indev version**:
-
-```
-git clone https://github.com/kyranet/PreciseTimeout.git
-```
-
 **Stable version**:
 
 ```
 npm i precisetimeout
+```
+
+**Indev version**:
+
+In a command prompt in your projects folder (wherever that may be) run the following:
+
+```
+git clone https://github.com/kyranet/PreciseTimeout.git
 ```

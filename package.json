@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/kyranet/PreciseTimeout/issues"
   },
-  "homepage": "https://github.com/kyranet/PreciseTimeout#readme"
+  "homepage": "https://github.com/kyranet/PreciseTimeout#readme",
+  "engines": {
+    "node": ">=7.6.0"
+  }
 }
