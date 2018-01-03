@@ -1,0 +1,24 @@
+{
+  "name": "precisetimeout",
+  "version": "1.0.0",
+  "description": "Set highly-accurate timeouts for your projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx eslint ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyranet/PreciseTimeout.git"
+  },
+  "keywords": [
+    "timeout",
+    "promise",
+    "es8"
+  ],
+  "author": "kyranet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kyranet/PreciseTimeout/issues"
+  },
+  "homepage": "https://github.com/kyranet/PreciseTimeout#readme"
+}
